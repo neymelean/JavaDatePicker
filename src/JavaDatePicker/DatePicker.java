@@ -10,5 +10,8 @@ package JavaDatePicker;
  * @author USUARIO
  */
 public class DatePicker {
+    public DatePicker(){
+        //
+    }
     
 }
